@@ -1,0 +1,439 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the Chappel of the Rolls, on the fifth of November, 1684 Being Gun-Powder-Treason-Day. By Gilbert Burnet, D.D.</title>
+            <author>Burnet, Gilbert, 1643-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77911</idno>
+            <idno type="STC">Wing B5879A</idno>
+            <idno type="STC">ESTC R230905</idno>
+            <idno type="EEBO-CITATION">99896587</idno>
+            <idno type="PROQUEST">99896587</idno>
+            <idno type="VID">170740</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170740)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2422:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the Chappel of the Rolls, on the fifth of November, 1684 Being Gun-Powder-Treason-Day. By Gilbert Burnet, D.D.</title>
+                  <author>Burnet, Gilbert, 1643-1715.</author>
+               </titleStmt>
+               <extent>[4], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and are to be sold by R. Baldwin, in the Old-Baily Corner, upon Ludgate-Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon preached at the Rolls-Chappel, Nov. 5.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XXII, 21 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170740:1"/>
+            <p>A SERMON Preached at the CHAPPEL OF THE ROLLS, On the Fifth of <hi>November,</hi> 1684. BEING
+GUN-POWDER-TREASON-DAY.</p>
+            <p>By <hi>GILBERT BURNET,</hi> D. D.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author, and are to be Sold by <hi>R. Baldwin,</hi> in the
+<hi>Old-Baily</hi> Corner, upon <hi>Ludgate-Hill,</hi> 1684.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:170740:2"/>
+            <pb facs="tcp:170740:2" rendition="simple:additions"/>
+            <p>THis Sermon as it was the ſhorteſt I ever preached, ſo was not at all intended for the
+Preſs; but ſome Diſcourſes that have been raiſed upon it, made me conclude, it was in
+ſome ſort ne<g ref="char:EOLhyphen"/>ceſſary to publiſh it for my own vindication.</p>
+            <p>I have writ it out with all poſſible exact<g ref="char:EOLhyphen"/>neſs and fidelity; tho ſince I do not read my
+Notes, nor repeat them word for word, I cannot anſwer that either in this or the o<g ref="char:EOLhyphen"/>ther
+<hi>Sermons</hi> that I have printed, my Pen has ſo governed, or followed my tongue, that there
+was no variation between them; I am ſure it is here printed as near the words I uſed, as I can
+remember them; and in this I have not depended only on my own memo<g ref="char:EOLhyphen"/>ry, but on ſeveral of my
+hearers, who heark<g ref="char:EOLhyphen"/>ned to that <hi>Sermon</hi> with more than ordinary attention, and do think it
+is very punctually ſet down here as I ſpake it.</p>
+            <p>
+               <pb facs="tcp:170740:3"/>I am ſure the laſt part of it, that preſſes Loyalty and Obedience, is not at
+all enlar<g ref="char:EOLhyphen"/>ged beyond what I not only preached in that <hi>Sermon,</hi> but on many other
+occaſions, in which I appeal to all my Hearers. But I leave the <hi>Sermon</hi> to ſpeak for it
+ſelf, and me both; and will refer it to every man's conſcience that reads it, to judge whether
+or not I can be concluded from it to be a <hi>Per<g ref="char:EOLhyphen"/>ſon diſaffected to His Majeſty's
+Govern<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:170740:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. XXII. 21.</hi>
+                  </bibl>
+                  <p>Save me from the Lyon's mouth, for thou haſt heard me from the horns of the Unicorns.</p>
+               </q>
+            </epigraph>
+            <p>WE have no greater encouragement in our Ad<g ref="char:EOLhyphen"/>dreſſes to God, than the remembrance of paſt
+deliverances; and we never Worſhip him more decently, than when we mix our acknowledg<g ref="char:EOLhyphen"/>ments for
+what is paſt, with our Prayers for what is to come. So <hi>David</hi> here implores the Divine
+Protection in an extream dan<g ref="char:EOLhyphen"/>ger, which is poetically expreſt, by the <hi>Lion's mouth,</hi> the
+figure of a <hi>Lion</hi> importing the ſtrength as well as the rage of his Ene<g ref="char:EOLhyphen"/>mies; and its
+<hi>mouth,</hi> importing the nearneſs of the danger, which perhaps relates to the hazards he run
+of falling into the hands of <hi>Saul.</hi> And with this he gives the reaſon of his confidence
+in God, even in that Extremity; becauſe in ſome former dangers, which are expreſſed by the
+figure of being <hi>on the horns of the unicorn,</hi> or <hi>Rhinoceros,</hi> and ſo being ready
+to be toſſed up, or torn by it, God had <hi>heard him.</hi> This perhaps relates to his
+deliverance from the <hi>Lion,</hi> and the <hi>Bear,</hi> or from <hi>Goliah.</hi> It is
+needleſs to enlarge more upon the words. Three things occur very naturally to our thoughts from
+them, with relation to this preſent occaſion.</p>
+            <p>The firſt is, the apprehenſion of danger from a formidable and cruel Enemy.</p>
+            <p>The ſecond is, a hope of preſervation founded on former de<g ref="char:EOLhyphen"/>liverances.</p>
+            <p>And the third is, the mean that is here laid before us for our preſervation; it is prayer to
+God, that he may <hi>ſave us from the lion's mouth, who has before heard us</hi> (that is, in the
+Scripture phraſe <hi>delivered us) from the horns of the unicorns.</hi>
+            </p>
+            <p>For the firſt Particular, I will uſe no Preambles, but plainly tell you, that it is the
+Church of <hi>Rome</hi> which I mean, that is both ſo ſtrong and ſo cruel an Enemy; and is as
+a Lion going about ſeeking how to devour all that differ from it. As for the
+<pb n="2" facs="tcp:170740:4"/> Strength of this Enemy, it may be meaſured by the Empire which that Church has
+aſſumed, not only over mens Perſons, but over their Conſciences: This being indeed the
+Fundamental Doctrine of that Church, of believing as the Church believes; of delivering up Mens
+Reaſons and Conſciences to be led blind<g ref="char:EOLhyphen"/>fold into whatſoever Doctrines or Practices their
+Guides impoſe upon them; and making them think, that to doubt of any of theſe is a Sin, and
+that therefore it muſt be opened to the Prieſt, and cannot be taken away, but by his leave, and
+Pardon given by him. The Myſtery of Popery lies not ſo much in other Spe<g ref="char:EOLhyphen"/>culative Opinions, as
+in this main Point, That we ought not to truſt neither our Reaſon nor our Senſes in the
+examining ſuch Articles as that Church propoſes to us, but muſt take them all, and her
+Authority to boot, which determines all the reſt, upon her own Word: So that the main thing in
+controverſy between the Church of <hi>Rome</hi> and us, is, Whether we ought to enquire into the
+Will of God our ſelves, or muſt take it upon truſt from our Guides?</p>
+            <p>A Church that has eſtabliſhed ſuch a Tyranny upon the tender<g ref="char:EOLhyphen"/>eſt Part of our Natures,
+our Reaſon, which is the moſt jealous of its Liberty, as well as the moſt deſirous of it,
+no wonder if ſhe takes it ill to ſee ſo ſacred a Secret look'd into; for, as it will not
+bear an Inquiry, ſo every Inquiry into it, is a Step towards the ſhaking it off. And therefore,
+as her Power is abſolute over her own Votaries; ſo ſhe muſt bear an extreme Hatred to any
+that will be ſo impudent as to pretend, that their Underſtandings are exempted from her
+Yoke.</p>
+            <p>Other things concur in that Church to confirm this Empire. The Belief of the Prieſts Power,
+both of Tranſubſtantiating the Bread and the Wine, and of granting Abſolution, makes it
+ſeem very reaſonable to truſt a Body of Men, that are ſo wonderfully qualified, with the
+Keeping and Conduct of other Men's Conſci<g ref="char:EOLhyphen"/>ences. And after the moſt eſſential, as well as
+the moſt unea<g ref="char:EOLhyphen"/>ſily ſubdued Power of a Man was conquered, no wonder if the leſſer Matters,
+ſuch as Wealth and Dominion, ſhould follow the other, as a ſort of Perquiſites. He that can
+forgive the Sins of the Living, and Redeem the Souls of the Dead, will drive a ſure Trade for
+himſelf; for though it cannot be ſure that what he does is ratified in Heaven; yet the belief
+of it, whether it gives Heaven to the Purchaſer or not, is ſure to bring the beſt part
+<pb n="3" facs="tcp:170740:4"/> of this Earth to the Seller. Men do not return to tell that they were cheated in
+the Bargain, and to demand an Equity. On the contrary, in dark Ages nothing was more common than
+pre<g ref="char:EOLhyphen"/>tended Apparitions and Voices to confirm the Impoſture; which have vaniſhed in an Age that
+is more apt to ſuſpect and examine ſuch things, as the Illuſions of our Dreams fly from us
+when<g ref="char:EOLhyphen"/>ever we are awake.</p>
+            <p>But the Night was ſo long and ſo dark, that no wonder if ſo gainful a Trade was carried on
+with great ſucceſs: And who would ſtand much upon the Caſe, after they had parted with the
+Jewel? So Mens Reaſons being once given up, no wonder if Wealth, and all other Secular
+Advantages, were thrown into the Bargain. A Church eſtabliſhed upon ſuch a Bottom, and
+ſup<g ref="char:EOLhyphen"/>ported with ſo much Wealth and Power, and defended by ſuch Multitudes, who as they have
+all their Proportion of the Spoil, ſo are tied to it by Vows, as well as engaged in it by
+Intereſt; and that has ſubdued ſo great a part of the World, and claims a more than ordinary
+Title to us, as having been once a very valuable Part of her Empire, is juſtly to be looked on as
+a great and formidable Enemy.</p>
+            <p>But it is not the Greatneſs of an Enemy, that makes him ſo Formidable; it is his Rage and
+Cruelty that gives the moſt mor<g ref="char:EOLhyphen"/>tal Apprehenſions. The old <hi>Romans</hi> made the Nations
+that they ſubdued, Gainers by the Conqueſt they made of them: But the Modern <hi>Romans</hi>
+are more unrelenting Enemies. They firſt make all their Votaries look on ſuch as are not of
+their Party, as He<g ref="char:EOLhyphen"/>reticks, that is, Men hated of God, and devoted to Damnation. Now it will be no
+hard thing to inſpire Men with Cruelty, when they are once poſſeſſed with ſuch
+inveterate Hatred and Averſion to a ſort of Men who they believe are to burn in Hell for ever;
+and ſo they think they but co-operate with the Juſtice of God, if they help this forward, and
+bring it on a little the ſooner; e<g ref="char:EOLhyphen"/>ſpecially when ſuch Fires purify the Air, which would be
+other<g ref="char:EOLhyphen"/>wiſe corrupted with their Hereſy.</p>
+            <p>A Church that has ſubſtituted this Wildfire of Rage and Cru<g ref="char:EOLhyphen"/>elty, to theſe gentle Flames
+of Love and Charity; and that, in<g ref="char:EOLhyphen"/>ſtead of making us love one another, makes us deſtroy and
+burn one another, is the moſt oppoſite thing poſſible to a Society founded on the Goſpel;
+as if, inſtead of the Union that ought to be among Chriſtians, we ought only to be bundling up
+Num<g ref="char:EOLhyphen"/>bers
+<pb n="4" facs="tcp:170740:5"/> of them in Faggots, to be burnt or blown up. All means poſſible are taken to
+impoſe this Cruelty on the World, which without ſome Practice and extraordinary Endeavours
+could not be wrought up to ſuch a Pitch, as to lay down the Bowels of a Man, and take up the Rage
+of a Wolf or Lion.</p>
+            <p>Biſhops among them are made to ſwear at their Conſecration, That they ſhall
+<hi>perſecute Hereticks to the utmoſt of their Power.</hi> De<g ref="char:EOLhyphen"/>crees of General Councils have
+been made for the Extirpating Hereticks; and Indulgence, with the Pardon of Sins, have been
+promiſed to ſuch as ſhould aſſiſt at it. And becauſe there is ſomewhat Great and
+Generous in the Nature of moſt Princes, therefore they have decreed, That if they are remiſs in
+this Af<g ref="char:EOLhyphen"/>fair, of Extirpating ſuch as the Church condemns of Hereſy, which is only a ſoft Word
+for being the Churchmens Executio<g ref="char:EOLhyphen"/>ners, they ſhall be firſt Excommunicated; and if they
+perſiſt in their merciful Inclinations, they are next to be Depoſed, their Subjects to be
+acquitted of their Oaths of Allegiance, and their Dominions to be diſpoſed of to other more
+Zealous, that is, leſs Merciful Catholicks.</p>
+            <p>Thus all poſſible Ways are taken to engage all ſorts of People, both Clergy and Laity,
+both Princes and Subjects, into theſe Cruel Practices; and therefore the Bloody things that have
+been done among them, are not ſo much the Exceſſes of Particular Perſons, as the Natural
+Effects of the Eſtabliſhed Doctrines and Rules of their Church, which ſeems to have forced
+them upon all within it, with ſo affected a Care, as if thoſe who had ma<g ref="char:EOLhyphen"/>naged it had been
+jealous that Good Nature and Common Hu<g ref="char:EOLhyphen"/>manity would have been too hard for them, if this Machin had
+not been ſet on by ſo many ſtrong Springs, that nothing ſhould withſtand it.</p>
+            <p>So in ſhort, here is an Enemy that if it it prevails it muſt ei<g ref="char:EOLhyphen"/>ther ſwallow up our Souls,
+or will be ſure if that projects fails, to ſucceed in that which it has in reſerve, it will
+devour our Bo<g ref="char:EOLhyphen"/>dies.</p>
+            <p>If any ſay, that theſe were effects of heat long ago, which are now diſowned by that
+Church.</p>
+            <p>To ſuch this muſt be anſwered, That as <hi>Bellarmine</hi> ſays, the Church does not
+always put in practice her power of depoſing Princes, becauſe ſhe is not always able to
+execute her Cenſures; ſo this Doctrine of extirpation is either really hid from ſome
+<pb n="5" facs="tcp:170740:5"/> good-natured Proſelytes, whoſe hearts might perhaps turn againſt a Church
+that ſhould authorize ſuch barbarities; or is cautiouſly and prudently enough diſowned by
+thoſe who know it, till they ſee a fair conjuncture and a fit opportunity: and thoſe who do
+not now ſee it, may perhaps then feel it.</p>
+            <p>But we are not to ſeek long for inſtances of this cruelty, when we have ſuch a crying one
+in our eyes in the buſineſs of this day, which is the Second thing I propoſed to ſpeak to.
+Where we have a Crime before us that far ſurpaſt all the invention of for<g ref="char:EOLhyphen"/>mer Ages: for never
+was there one ſingle action, that would have produced ſuch miſchievous effects, as one
+ſpark of Fire would have done here, if God had not heard and delivered us from the <hi>horns of
+the Unicorns.</hi> None could ſuſpect the nature of man of ſo black a deſign: and it was
+leſs to be apprehended from men of the ſame Country, if the becoming a Proſelyte to
+<hi>Rome</hi> did not make a man both forget that he was a man, and an Engliſhman. Nor was there
+any violent oppreſſion in the caſe, which often makes even a wiſe man mad, for they were
+under ſo little preſſure, that the Government was a little cenſured for its remiſneſs:
+ſo that a Merciful Prince and a gentle Reign do not allay their fury. It had been long in
+conſultation among them, as may appear by this one Inſtance among many more that might be
+given: <hi>Delrio</hi> a Jeſuit in a Book Printed at <hi>Louvain,</hi> but five years before
+this, puts a Caſe,<note place="margin">Delrio Diſ. Mag lib. <hi>6.</hi> chap. <hi>1.</hi>
+               </note>
+               <hi>Whether if a Confederate diſcover in Confeſſion that he or ſome elſe have placed
+Gunpowder, or ſuch like matter under ſuch or ſuch a houſe, and unleſs it be removed, the
+Houſe will be blown up, the Prince deſtroyed, and as many as are in or going out of the City,
+will ſuſtain great miſchief, or run an ex<g ref="char:EOLhyphen"/>treme hazard, the Prieſt ought to reveal it?</hi>
+It is determined in the Negative, that he ought not to do it; and for this he cites a Bull of Pope
+<hi>Clement</hi> the Eighth's, againſt the taking any notice of things diſcovered in
+Confeſſion, which though it related only to Superiors, and required them to take no notice in
+their Govern<g ref="char:EOLhyphen"/>ment, of ſuch things as they know in Confeſſion, yet the Jeſuit argues from
+thence, that the Pope approved the opinion, that Confeſſors ought to behave themſelves in all
+reſpects, as if they had heard nothing at all in Confeſſion. This being publiſhed ſo near
+<hi>England,</hi> and ſo near the time when this Train was laying, ſhews that it was then in
+their thoughts; for it is a caſe that had never before fallen out, and ſo was not likely to
+have fallen in<g ref="char:EOLhyphen"/>to
+<pb n="6" facs="tcp:170740:6"/> a mans thoughts, if the thing had not been in conſultation among them. In
+concluſion, when a ſufficient number were cemented by ſo many Oaths and Sacraments in ſuch
+a black deſign, then it was laid with ſo much artifice, that it was not probable it could have
+miſcarried. Thus were our Fathers upon the <hi>horns of the Unicorns,</hi> when by an unlookt for
+accident it appeared, that that eye to which thoſe dark places lay naked, took pity on us, and
+laid this open to the preſervation of King and Queen, the Prince, the Cler<g ref="char:EOLhyphen"/>gy and Nobility, the
+Commons and all others whom that great ſolemnity of the meeting of a Parliament commonly brings
+together: beſides the crouds round about the place, who would very probably have had a large
+ſhare of ſo de<g ref="char:EOLhyphen"/>vouring an Earthquake, as ſo much Gunpowder muſt have produced. It is true,
+ſome humanity was left, but it was only to their own Party; warning was given to ſo many, that
+there was not above <hi>Three worth Saving,</hi> in their ac<g ref="char:EOLhyphen"/>count, in all that vaſt
+Aſſembly, who were not advertiſed to abſent themſelves, as Sir <hi>Everard Digby</hi>
+writ out of Priſon to a Friend.</p>
+            <p>One of theſe Advertiſements being conveyed very odly to a Lord of that Religion, gave him
+the happy opportu<g ref="char:EOLhyphen"/>nity of being the inſtrument that brought out all this ſe<g ref="char:EOLhyphen"/>cret proviſion
+for ſo many deaths that was laid up in ſtore. The bold Incendiary that undertook the thing, was
+taken, and all broke out: but then, though a great many of thoſe who had not learnt the
+<hi>depths of Satan,</hi> were ſo far over<g ref="char:EOLhyphen"/>come by the Diſcovery, as to confeſs all, yet as
+one of theſe was prevailed with to retract that afterwards, but a few minutes before his death in
+priſon, which prevented his ſuffering by the hand of Juſtice, ſo the Jeſuits ſhewed on
+this occaſion how they can ſteel their Conſciences, both in undertaking the blackeſt
+Crimes, and in throwing off that guilt with the moſt impudent denials. <hi>Garnet</hi> their
+<hi>Provincial</hi> did this to a degree of aſſurance, that aſtoniſh<g ref="char:EOLhyphen"/>ed thoſe who took
+his Examinations. Sir <hi>Everard Digby,</hi> one of the Conſpirators, in his Letters, of which I
+have ſeen the Originals, calls that Conſpiracy, <hi>A Cauſe dearer to him than his Life;</hi>
+and ſo powerfully had the poyſon of that Religion corrupted his thoughts, that in all his
+Letters
+<pb n="7" facs="tcp:170740:6"/> writ during his impriſonment, even in his laſt Advices to his Children,
+there is not the leaſt hint of Repentance for his engagement in ſo vile a deſign; though in
+all o<g ref="char:EOLhyphen"/>ther reſpects he appeared to be a man that was both Ver<g ref="char:EOLhyphen"/>tuouſly and Religiouſly
+inclined; ſuch an influence has that Religion even on the beſt natures.</p>
+            <p>If after all this, theſe had been only the execrable pra<g ref="char:EOLhyphen"/>ctices of ſome
+Aſſaſſinates, though it would have left ſome Imputation on a Church, for having ſuch
+Members in her boſom, yet it might be well enough put by with this, that there will be ſtill
+Cockle among the Wheat, and that there was a Traitor among the Twelve Apoſtles. But if theſe
+things were done purſuant to the Doctrines of that Church that makes it lawful to kill Hereticks,
+to depoſe Princes, to diſſolve the Bonds of Allegiance, and to give their Do<g ref="char:EOLhyphen"/>minions to
+others: then we may more juſtly charge the guilt of this day upon the Church it ſelf.</p>
+            <p>It gives very juſt grounds of ſuſpicion, that the Pope ne<g ref="char:EOLhyphen"/>ver made any Declaration of his
+deteſtation of that Crime, though, as I have been credibly informed, it was much deſired: on
+the contrary, two Prieſts that had engaged in it, getting beyond Sea, were well received and
+provided for even by the Pope in <hi>Rome</hi> it ſelf. And the Jeſuits have made Prints and
+Pictures for <hi>Garnet</hi> as a Saint, and fables of ſtraws that wrought miracles by virtue of
+ſome drops of Blood that fell on them, which afterwards were converted into little pictures, have
+been propoſed to the World as evidences of his Saintſhip. In a word, it is plain that theſe
+who engaged in this Conſpiracy, were carried into it by the Principles of their Religion, and
+that they were ſo far from being condemned for it, that they were ſup<g ref="char:EOLhyphen"/>ported and juſtified
+both living and dead for what they did in it.</p>
+            <p>And that Learned King, though by the goodneſs of God he never felt the effects of the bloody
+rage of that cru<g ref="char:EOLhyphen"/>el Religion, yet he knew it well, and therefore upon a ſolemn occaſion he
+proteſted to his Counſellors <hi>That he would never ſo much as grant a Toleration of that
+Religion,</hi>
+               <note place="margin">
+                  <hi>Cooks</hi> Reports Term.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rin. <hi>2.</hi> Jac.</note> 
+               <hi>but would
+ſpend the laſt drop of blood in his Body before he would do it; and prayed that before any of
+his Iſſue ſhould maintain any other
+<pb n="8" facs="tcp:170740:7"/> Religion than what he truly profeſſed and maintained, that God would take
+them out of the world.</hi>
+            </p>
+            <p>Since then, notwithſtanding the cloſe management as well as the ſecret contrivance of this
+curſed Plot, which was ſo near its execution, that the whole State both of this Church and
+Nation was in a danger, not unfitly expreſſed by their being on the <hi>horns of the
+Unicorns;</hi> God yet heard our Fa<g ref="char:EOLhyphen"/>thers and delivered them, who have handed down to us the
+remembrance of that great Salvation that he wrought for them on this bleſſed day; then all the
+Royal Family de<g ref="char:EOLhyphen"/>ſcended from that King, all the Nobility and Gentry, whoſe Anceſtors were
+markt for Deſtruction, all the Clergy to whoſe burning that fire was the fore-runner, unleſs
+they re<g ref="char:EOLhyphen"/>ſolved to ſave themſelves by Apoſtacy, and the whole En<g ref="char:EOLhyphen"/>gliſh Nation that was
+then like to have ſeen ſo <hi>black a day,</hi> and have fallen under ſo <hi>dark a
+night,</hi> ought all to joyn to<g ref="char:EOLhyphen"/>gether and ſay, <hi>O give thanks unto the Lord, for he is
+gracious, for his mercy endureth for ever, Amen and Amen.</hi>
+            </p>
+            <p>And becauſe <hi>his mercy endureth for ever,</hi> therefore we ought ſtill to pray to him to
+preſerve us, and to ſay to him, <hi>Save me from the Lion's mouth,</hi> which is the third
+thing in my Text. We believe there is a ſecret Providence that go<g ref="char:EOLhyphen"/>verns the World, and that
+diſcriminates between the good and the bad, and therefore we ought to addreſs our ſelves to
+that Providence, as well as to depend on it and ſubmit to it; and ſince the Religion that we
+profeſs is the Cauſe of God, and the deareſt of all other things to him who delivered it to
+the world, who ſealed it with his own Blood, and in whoſe hands the Government of all things in
+Hea<g ref="char:EOLhyphen"/>ven and in Earth was put by his Father, he may well qui<g ref="char:EOLhyphen"/>et our minds, amidſt all the fears
+and apprehenſions which melancholy thoughts may ſuggeſt to us. God will not a<g ref="char:EOLhyphen"/>bandon his own
+Work, nor will Chriſt forget that which was the purchaſe of his own Blood. We may indeed make
+our ſelves unworthy of it, and the cry of our ſins may go up ſo loud to Heaven, as to drown
+theſe ſofter whiſ<g ref="char:EOLhyphen"/>pers of our Prayers and Thankſgivings.</p>
+            <p>It is our contempt of God and Religion; our unreformed Lives amidſt all the noiſe we make of
+the Reformation, our for<g ref="char:EOLhyphen"/>getting paſt Mercies, and our inſenſibility to all the Methods of
+<pb n="9" facs="tcp:170740:7"/> Divine Providence, that ought to make us fear the <hi>Lion's Mouth,</hi> and
+every thing elſe that is diſmal and frightful: and therefore if we would have our Prayers to be
+effectual, we muſt take care that our Lives may not defeat our cold and ſlender Devotions.</p>
+            <p>But as we deſire to have our Prayers to be heard, ſo we muſt take a particular care to
+join no Endeavours with them that may argue a diſtruſt of God, or of our Religion; and while we
+have a Zeal againſt Popery, as a bloody, a rebellious, and a cruel Religion; we muſt do nothing
+to ſhew that we are acted by the Spirit of Popery, even while we ſeem to oppoſe it. All
+Malice to Mens Perſons, all deſire of Revenge, the thirſt of Blood, fierce Zeal, and indecent
+Rage, are the Characters of the Perſecuting Spirit that reigns there: We muſt not think ill of
+every particular Man among them, becauſe of their Cor<g ref="char:EOLhyphen"/>ruptions, which perhaps he does not know;
+and if he did know them, would diſown them. We muſt think as charitably of men as we can: for
+though there is very little Charity due to the complicated Body, and the governing Part of that
+Church; yet we owe a great deal to many particular men in it, who are ſtill in it, becauſe they
+have not known the Depths of Satan; and would very probably forſake it, if they ſaw ſo well
+as to diſcern them.</p>
+            <p>But above all theſe, we muſt never forget the Station in which God has put us, as we are
+Subjects under a lawful Prince, to whom we are tied both by Divine and Human Laws: and even the
+<hi>Lion's Mouth</hi> it ſelf opening to devour us, can never excuſe us from our Obligation to
+ſubmit and ſuffer, if God had ſo ordered it by his Providence, that we had not the
+bleſ<g ref="char:EOLhyphen"/>ſing of being born under a Prince that is the <hi>Defender of the Faith,</hi> but were
+born under one that would deliver us up to the LION. Much leſs ought Jealouſies to be ſo
+blown into our Minds by ill diſpoſed men, as to make us forget our Duty to God and the
+King.</p>
+            <p>Suffer me here to ſpeak this freely, that the late Rebel<g ref="char:EOLhyphen"/>lion, as it was managed with a
+Popiſh, that is, a Bloody Spirit, ſo m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny of
+the Arguments that were uſed to defend it, were taken from Popiſh Authors.</p>
+            <p>When we go out of the way of Patience and Submiſſion, of Obedience, and of bearing the
+Croſs; when we give ſcope to Paſſion and Rage, to Jealouſy and Miſtruſt, and upon
+this
+<pb n="10" facs="tcp:170740:8"/> Fermentation in our Minds we break out into Wars and Rebel<g ref="char:EOLhyphen"/>lion; we forget that
+the God whom we ſerve is Almighty, and can ſave us either from a devouring Fire, or a
+<hi>Lion's Mouth;</hi> and either will ſave us from theſe, or reward us infinitely for them: We
+forget that the Saviour whom we follow, <hi>was made perfect by Sufferings;</hi> and that we become
+then truly his Diſciples, when we bear his Croſs, even though we ſhould be cruſh<g ref="char:EOLhyphen"/>ed under
+it: We forget that our Religion ought to inſpire us with a contempt of Life and the World, and
+with meekneſs and lowlineſs of Mind: We forget that we are the Followers of that glorious Cloud
+of Witneſſes, who have <hi>by Faith and Patience inherited the Promiſes,</hi> and have gone
+to take poſſeſſion of the Kingdom that was prepared for them, through Fire and through
+Blood, but it was their own Blood. And to ſum up all, we forget that our Reformation was the
+ſhaking off of Popery, that is, a bloody Conſpiracy againſt the Souls and Bodies of men:
+againſt the Souls of the Weak, and againſt the Bodies of the Firm, but Innocent Profeſſors
+of this Holy Religion. We are not to ſhare with them in their Cruelty, nor imitate them in their
+Rebellion.</p>
+            <p>But on the other hand; If we will live ſo ſuitably to our Religion, that we may be thereby
+entitled to the bleſſing of enjoying it, and of being ſecure in it; and if our melancholly
+apprehenſions make us pray more earneſtly to the Great Author of it, then we may lie down in
+qui<g ref="char:EOLhyphen"/>et; for God will either make us to dwell in ſafety, and de<g ref="char:EOLhyphen"/>liver us from the <hi>Lion's
+Mouth;</hi> or if he gives us up as a Prey, yet at leaſt we ſhall even in Death overcome, and
+obtain the Crown of Life.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
